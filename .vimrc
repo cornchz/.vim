@@ -368,6 +368,7 @@ endif
 
 " PRIVATE SETTINGS {{{ -------------------------------------
 let processing_doc_path="/usr/local/lib/processing/reference"
+set runtimepath^=~/.vim/bundle/ctrlp.vim
 call pathogen#infect()
 
 colorscheme 256-jungle
