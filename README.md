@@ -1,4 +1,4 @@
 # Installation
 
-$ mv ~/.vimrc ~/.vimrc.backup
-$ make install
+    $ mv ~/.vimrc ~/.vimrc.backup
+    $ make install

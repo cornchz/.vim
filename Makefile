@@ -1,4 +1,2 @@
 install:
-	git submodule init
-	git submodule update
-	ln -s .vimrc ~/
+	exec shell/install.sh
